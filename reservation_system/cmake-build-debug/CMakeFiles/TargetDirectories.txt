@@ -1,0 +1,3 @@
+/Users/hrz/Desktop/reservation_system/cmake-build-debug/CMakeFiles/reservation_system.dir
+/Users/hrz/Desktop/reservation_system/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hrz/Desktop/reservation_system/cmake-build-debug/CMakeFiles/rebuild_cache.dir
